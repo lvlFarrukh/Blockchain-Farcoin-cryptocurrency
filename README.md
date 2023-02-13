@@ -1,7 +1,7 @@
-#Farcoin - A Blockchain-Based Cryptocurrency
+# Farcoin - A Blockchain-Based Cryptocurrency
 Farcoin is a blockchain-based cryptocurrency that is designed to provide fast, secure and decentralized transactions. The project is built on top of a decentralized ledger technology, which ensures that all transactions are immutable and cannot be altered.
 
-Features
+## Features
 Fast Transactions: Farcoin uses advanced blockchain technology to provide fast transactions with low fees.
 
 Secure: Farcoin uses cryptographic techniques to secure all transactions and protect users' funds.
