@@ -8,7 +8,7 @@ import Blockchain
 app = Flask(__name__)
 
 # Creating a Blockchain
-blockchain = Blockchain()
+blockchain = Blockchain.Blockchain()
 
 
 # Creating address for the node on Port 5000
